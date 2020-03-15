@@ -1,0 +1,587 @@
+[
+    {
+        "apt_num": "310",
+        "building_name": "Lincoln",
+        "address": "204 Tenth Street",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "645",
+        "rent": "$2,425",
+        "availability": "3/25/2020"
+    },
+    {
+        "apt_num": "1915",
+        "building_name": "Waterside Square South",
+        "address": "35 River Drive South",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "490",
+        "rent": "$2,440",
+        "availability": "3/29/2020"
+    },
+    {
+        "apt_num": "518",
+        "building_name": "Roosevelt",
+        "address": "180 Tenth Street",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "723",
+        "rent": "$2,470",
+        "availability": "3/30/2020"
+    },
+    {
+        "apt_num": "3107",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "606",
+        "rent": "$2,525",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "1210",
+        "building_name": "Parkside West",
+        "address": "40 Newport Parkway",
+        "unit_type": "2 Bedrooms 1 Bathroom",
+        "area": "865",
+        "rent": "$2,597",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "1708",
+        "building_name": "Parkside East",
+        "address": "30 Newport Parkway",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "765",
+        "rent": "$2,635",
+        "availability": "3/31/2020"
+    },
+    {
+        "apt_num": "1406",
+        "building_name": "Waterside Square North",
+        "address": "55 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "745",
+        "rent": "$2,735",
+        "availability": "3/28/2020"
+    },
+    {
+        "apt_num": "2302",
+        "building_name": "Pacific",
+        "address": "25 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "764",
+        "rent": "$2,794",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "3401",
+        "building_name": "Parkside East",
+        "address": "30 Newport Parkway",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "771",
+        "rent": "$2,795",
+        "availability": "3/26/2020"
+    },
+    {
+        "apt_num": "607",
+        "building_name": "Pacific",
+        "address": "25 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "841",
+        "rent": "$2,812",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "902",
+        "building_name": "Southampton",
+        "address": "20 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "821",
+        "rent": "$2,835",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "2807",
+        "building_name": "Ellipse",
+        "address": "25 Park Lane South",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "510",
+        "rent": "$2,843",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "1001",
+        "building_name": "Pacific",
+        "address": "25 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "821",
+        "rent": "$2,850",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "1111",
+        "building_name": "Pacific",
+        "address": "25 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "773",
+        "rent": "$2,855",
+        "availability": "3/24/2020"
+    },
+    {
+        "apt_num": "2611",
+        "building_name": "Riverside",
+        "address": "1 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "834",
+        "rent": "$2,855",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "901",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "862",
+        "rent": "$2,855",
+        "availability": "3/24/2020"
+    },
+    {
+        "apt_num": "1502",
+        "building_name": "Southampton",
+        "address": "20 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "821",
+        "rent": "$2,860",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "3407",
+        "building_name": "Ellipse",
+        "address": "25 Park Lane South",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "507",
+        "rent": "$2,873",
+        "availability": "3/27/2020"
+    },
+    {
+        "apt_num": "504",
+        "building_name": "Southampton",
+        "address": "20 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "851",
+        "rent": "$2,875",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "3208",
+        "building_name": "Southampton",
+        "address": "20 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "765",
+        "rent": "$2,920",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "2805",
+        "building_name": "Parkside West",
+        "address": "40 Newport Parkway",
+        "unit_type": "2 Bedrooms 1 Bathroom",
+        "area": "865",
+        "rent": "$2,920",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "2301",
+        "building_name": "Southampton",
+        "address": "20 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "849",
+        "rent": "$2,935",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "2109",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "817",
+        "rent": "$2,940",
+        "availability": "3/29/2020"
+    },
+    {
+        "apt_num": "1908",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "832",
+        "rent": "$2,955",
+        "availability": "3/22/2020"
+    },
+    {
+        "apt_num": "2311",
+        "building_name": "Riverside",
+        "address": "1 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "834",
+        "rent": "$2,960",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "2104",
+        "building_name": "Waterside Square South",
+        "address": "35 River Drive South",
+        "unit_type": "2 Bedrooms 1 Bathroom",
+        "area": "946",
+        "rent": "$2,975",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "2408",
+        "building_name": "Atlantic",
+        "address": "31 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "758",
+        "rent": "$2,995",
+        "availability": "3/30/2020"
+    },
+    {
+        "apt_num": "908",
+        "building_name": "Pacific",
+        "address": "25 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "808",
+        "rent": "$2,995",
+        "availability": "Now"
+    },
+    {
+        "apt_num": "3001",
+        "building_name": "Pacific",
+        "address": "25 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "821",
+        "rent": "$3,000",
+        "availability": "4/2/2020"
+    },
+    {
+        "apt_num": "2807",
+        "building_name": "Parkside East",
+        "address": "30 Newport Parkway",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "482",
+        "rent": "$2,286",
+        "availability": "4/6/2020"
+    },
+    {
+        "apt_num": "1915",
+        "building_name": "Waterside Square South",
+        "address": "35 River Drive South",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "490",
+        "rent": "$2,440",
+        "availability": "3/29/2020"
+    },
+    {
+        "apt_num": "518",
+        "building_name": "Roosevelt",
+        "address": "180 Tenth Street",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "723",
+        "rent": "$2,470",
+        "availability": "3/30/2020"
+    },
+    {
+        "apt_num": "305",
+        "building_name": "Aquablu",
+        "address": "110 River Drive",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "691",
+        "rent": "$2,485",
+        "availability": "4/29/2020"
+    },
+    {
+        "apt_num": "320",
+        "building_name": "Roosevelt",
+        "address": "180 Tenth Street",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "724",
+        "rent": "$2,510",
+        "availability": "4/21/2020"
+    },
+    {
+        "apt_num": "1708",
+        "building_name": "Parkside East",
+        "address": "30 Newport Parkway",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "765",
+        "rent": "$2,635",
+        "availability": "3/31/2020"
+    },
+    {
+        "apt_num": "2107",
+        "building_name": "Waterside Square South",
+        "address": "35 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "738",
+        "rent": "$2,670",
+        "availability": "4/6/2020"
+    },
+    {
+        "apt_num": "516",
+        "building_name": "Aquablu",
+        "address": "110 River Drive",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "679",
+        "rent": "$2,735",
+        "availability": "4/17/2020"
+    },
+    {
+        "apt_num": "1506",
+        "building_name": "Waterside Square North",
+        "address": "55 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "745",
+        "rent": "$2,735",
+        "availability": "4/8/2020"
+    },
+    {
+        "apt_num": "1406",
+        "building_name": "Waterside Square North",
+        "address": "55 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "745",
+        "rent": "$2,735",
+        "availability": "3/28/2020"
+    },
+    {
+        "apt_num": "1607",
+        "building_name": "Ellipse",
+        "address": "25 Park Lane South",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "510",
+        "rent": "$2,778",
+        "availability": "4/5/2020"
+    },
+    {
+        "apt_num": "3308",
+        "building_name": "Parkside East",
+        "address": "30 Newport Parkway",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "765",
+        "rent": "$2,815",
+        "availability": "4/6/2020"
+    },
+    {
+        "apt_num": "2607",
+        "building_name": "Ellipse",
+        "address": "25 Park Lane South",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "510",
+        "rent": "$2,828",
+        "availability": "4/19/2020"
+    },
+    {
+        "apt_num": "611",
+        "building_name": "Riverside",
+        "address": "1 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "834",
+        "rent": "$2,835",
+        "availability": "4/24/2020"
+    },
+    {
+        "apt_num": "1502",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "831",
+        "rent": "$2,850",
+        "availability": "4/8/2020"
+    },
+    {
+        "apt_num": "3407",
+        "building_name": "Ellipse",
+        "address": "25 Park Lane South",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "507",
+        "rent": "$2,873",
+        "availability": "3/27/2020"
+    },
+    {
+        "apt_num": "1001",
+        "building_name": "Waterside Square North",
+        "address": "55 River Drive South",
+        "unit_type": "2 Bedrooms 1 Bathroom",
+        "area": "893",
+        "rent": "$2,900",
+        "availability": "4/10/2020"
+    },
+    {
+        "apt_num": "2302",
+        "building_name": "Southampton",
+        "address": "20 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "821",
+        "rent": "$2,905",
+        "availability": "4/23/2020"
+    },
+    {
+        "apt_num": "1704",
+        "building_name": "Southampton",
+        "address": "20 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "851",
+        "rent": "$2,935",
+        "availability": "4/3/2020"
+    },
+    {
+        "apt_num": "2109",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "817",
+        "rent": "$2,940",
+        "availability": "3/29/2020"
+    },
+    {
+        "apt_num": "2303",
+        "building_name": "Parkside East",
+        "address": "30 Newport Parkway",
+        "unit_type": "2 Bedrooms 1 Bathroom",
+        "area": "863",
+        "rent": "$2,950",
+        "availability": "4/17/2020"
+    },
+    {
+        "apt_num": "406",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "862",
+        "rent": "$2,965",
+        "availability": "4/29/2020"
+    },
+    {
+        "apt_num": "2501",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "862",
+        "rent": "$2,985",
+        "availability": "4/10/2020"
+    },
+    {
+        "apt_num": "3302",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "831",
+        "rent": "$2,990",
+        "availability": "4/4/2020"
+    },
+    {
+        "apt_num": "2408",
+        "building_name": "Atlantic",
+        "address": "31 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "758",
+        "rent": "$2,995",
+        "availability": "3/30/2020"
+    },
+    {
+        "apt_num": "3001",
+        "building_name": "Pacific",
+        "address": "25 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "821",
+        "rent": "$3,000",
+        "availability": "4/2/2020"
+    },
+    {
+        "apt_num": "3004",
+        "building_name": "Southampton",
+        "address": "20 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "851",
+        "rent": "$3,000",
+        "availability": "4/10/2020"
+    },
+    {
+        "apt_num": "1608",
+        "building_name": "Parkside West",
+        "address": "40 Newport Parkway",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "467",
+        "rent": "$2,185",
+        "availability": "5/10/2020"
+    },
+    {
+        "apt_num": "305",
+        "building_name": "Aquablu",
+        "address": "110 River Drive",
+        "unit_type": "Studio 1 Bathroom",
+        "area": "691",
+        "rent": "$2,485",
+        "availability": "4/29/2020"
+    },
+    {
+        "apt_num": "417",
+        "building_name": "Lincoln",
+        "address": "204 Tenth Street",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "707",
+        "rent": "$2,505",
+        "availability": "5/10/2020"
+    },
+    {
+        "apt_num": "1814",
+        "building_name": "Waterside Square South",
+        "address": "35 River Drive South",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "752",
+        "rent": "$2,775",
+        "availability": "5/8/2020"
+    },
+    {
+        "apt_num": "324",
+        "building_name": "REV",
+        "address": "100 Town Square Place",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "806",
+        "rent": "$2,790",
+        "availability": "5/19/2020"
+    },
+    {
+        "apt_num": "3203",
+        "building_name": "Parkside East",
+        "address": "30 Newport Parkway",
+        "unit_type": "2 Bedrooms 1 Bathroom",
+        "area": "863",
+        "rent": "$2,865",
+        "availability": "5/3/2020"
+    },
+    {
+        "apt_num": "2110",
+        "building_name": "Atlantic",
+        "address": "31 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "899",
+        "rent": "$2,915",
+        "availability": "5/7/2020"
+    },
+    {
+        "apt_num": "406",
+        "building_name": "East Hampton",
+        "address": "30 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "862",
+        "rent": "$2,965",
+        "availability": "4/29/2020"
+    },
+    {
+        "apt_num": "3210",
+        "building_name": "Atlantic",
+        "address": "31 River Court",
+        "unit_type": "1 Bedroom 1 Bathroom",
+        "area": "899",
+        "rent": "$2,970",
+        "availability": "5/4/2020"
+    }
+]
